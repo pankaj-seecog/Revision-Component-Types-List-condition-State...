@@ -1,0 +1,8 @@
+.sleepyclass{
+  width : 200px;
+  height : 150px;
+  border : 1px solid #ccc;
+  margin : 15px;
+  padding : 15px;
+  border-radius : 10px;
+}
